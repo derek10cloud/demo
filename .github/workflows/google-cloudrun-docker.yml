@@ -49,10 +49,10 @@ on:
     branches: [ "main" ]
 
 env:
-  PROJECT_ID: 'derek-demo-pjt'
-  GAR_LOCATION: 'gcr.io/derek-demo-pjt/demo-skku' # gcr.io/${PROJECT_ID}/${SERVICE_NAME}
-  SERVICE: 'demo-skku' # Cloud Run service name
-  REGION: 'us-central1' # Cloud Run service region
+  PROJECT_ID: "derek-demo-pjt"
+  GAR_LOCATION: "gcr.io/derek-demo-pjt/demo-skku" # gcr.io/${PROJECT_ID}/${SERVICE_NAME}
+  SERVICE: "demo-skku" # Cloud Run service name
+  REGION: "us-central1" # Cloud Run service region
 
 jobs:
   deploy:
