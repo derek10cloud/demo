@@ -85,7 +85,7 @@ jobs:
 
       # If required, use the Cloud Run url output in later steps
       - name: Test Output
-        run: echo '${{ steps.auth.outputs.access_token }}'
+        run: echo '${{ steps.auth.outputs }}'
 
       # Authenticate Docker to Google Cloud Artifact Registry
       - name: Docker Auth
