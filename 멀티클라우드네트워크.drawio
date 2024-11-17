@@ -241,6 +241,9 @@
         <mxCell id="9T4e9t1oUzC_FXifpDTR-92" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;site-to-site VPN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="342" y="280" width="143" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="9T4e9t1oUzC_FXifpDTR-94" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1" y="-61" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
